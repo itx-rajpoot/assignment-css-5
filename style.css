@@ -1,0 +1,13 @@
+.navbar-nav li{
+    margin-left: 10px ;
+}
+#textarea{
+    background-color: #FDECEC;
+     border: none;
+      border-radius: 20px;
+      padding: 7px;
+      overflow-x: visible;
+}
+body{
+    overflow-x: hidden;
+}
